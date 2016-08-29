@@ -1,7 +1,7 @@
 {
   "name": "who-that-cli",
   "description": "tiny cli for who-that",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Zac Anger",
     "email": "zac@zacanger.com",
